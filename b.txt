@@ -3,14 +3,6 @@
 aaaa
 3
 4
-bbbbb
-5
-6
-cccccc
-5
-6
-dddddddd
-5
 eeeeeeeee
 6
 7
